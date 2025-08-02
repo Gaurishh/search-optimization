@@ -38,7 +38,7 @@ Update `.env` with your credentials:
 
 ```bash
 # MongoDB Configuration (provided)
-MONGO_URI=mongodb+srv://candidate:aQ7hHSLV9QqvQutP@hardfiltering.awwim.mongodb.net/
+MONGO_URI=YOUR_MONGODB_URL
 
 # Your email for Mercor evaluation API
 MERCOR_EMAIL=your_email_here
