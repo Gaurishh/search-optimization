@@ -1,4 +1,4 @@
-# Mercor Search Engineer - Simple MERN Stack
+# Search Optimization 
 
 A clean, simple candidate search and evaluation system built with the MERN stack (MongoDB, Express, React, Node.js) without complex build tools.
 
