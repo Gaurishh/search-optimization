@@ -1,0 +1,127 @@
+{
+  "config_candidates": {
+    "tax_lawyer.yml": [
+      "6796d58a3eff0c142a8b790c",
+      "6796dd5c8d90554e607883ed",
+      "6796d2b03e76d5b58734ad5a",
+      "679585270db3e79256793db3",
+      "679569e573bf14921fadc0f9",
+      "6796e06b0db3e79256865938",
+      "6795aa360db3e792567aae10",
+      "67957aa973bf14921fae8942",
+      "67951a4073bf14921faad6b9",
+      "679524bc3eff0c142a7c390e"
+    ],
+    "junior_corporate_lawyer.yml": [
+      "6796d58a3eff0c142a8b790c",
+      "67957aa973bf14921fae8942",
+      "67951a4073bf14921faad6b9",
+      "679524bc3eff0c142a7c390e",
+      "6795aa360db3e792567aae10",
+      "6794beaf8d90554e60648242",
+      "679674b47e0084c5fa7e5a9b",
+      "6795b29e73bf14921fb13ced",
+      "6796d2b03e76d5b58734ad5a",
+      "6795dea23e76d5b5872c3865"
+    ],
+    "radiology.yml": [
+      "6796267373bf14921fb56f9f",
+      "6794f64973bf14921fa98297",
+      "67967be273bf14921fb87887",
+      "6795fa043e76d5b5872d33cd",
+      "67955ca9a1a09a48feadff5d",
+      "679683cba1a09a48feb93ac5",
+      "679543830db3e7925676cb69",
+      "67968e187e0084c5fa7f873a",
+      "67964dd43e76d5b58730055a",
+      "67952a9b8a14699f1603fbf7"
+    ],
+    "doctors_md.yml": [
+      "6795fa043e76d5b5872d33cd",
+      "67955ca9a1a09a48feadff5d",
+      "67952a9b8a14699f1603fbf7",
+      "6795565273bf14921fad0e05",
+      "67959eac7e0084c5fa76f03d",
+      "679508f952a365d1167c6336",
+      "679669d03e76d5b587311562",
+      "6795c9ca8d90554e606e805a",
+      "679585270db3e79256793db3",
+      "67968ab53e76d5b5873251e7"
+    ],
+    "biology_expert.yml": [
+      "6794b7b17e0084c5fa6e78c1",
+      "6796ec713eff0c142a8c2d97",
+      "6794cb533e76d5b587229595",
+      "679606baa1a09a48feb46da7",
+      "6796fcb2f9f986ea7fc8309a",
+      "679602bf3e76d5b5872d777f",
+      "67969d547e0084c5fa801e54",
+      "679604eb3eff0c142a83d580",
+      "6795bf030db3e792567b7744",
+      "679674b47e0084c5fa7e5a9b"
+    ],
+    "anthropology.yml": [
+      "6796e9557e0084c5fa833e81",
+      "6794cdd8a1a09a48fea89298",
+      "6795fd443e76d5b5872d4c29",
+      "6795307173bf14921fab9aa2",
+      "67966e373eff0c142a87adb2",
+      "6794c9e48d90554e6064ee71",
+      "679573503eff0c142a7ea02e",
+      "67963dfc8a14699f160d721f",
+      "67977f233e76d5b5873ab8d1",
+      "6795b5088d90554e606dba2d"
+    ],
+    "mathematics_phd.yml": [
+      "6794b7b17e0084c5fa6e78c1",
+      "679674b47e0084c5fa7e5a9b",
+      "6796ec713eff0c142a8c2d97",
+      "6794cb533e76d5b587229595",
+      "679606baa1a09a48feb46da7",
+      "6796fcb2f9f986ea7fc8309a",
+      "679602bf3e76d5b5872d777f",
+      "67970ffa3eff0c142a8d34f1",
+      "6795b5088d90554e606dba2d",
+      "6794d7343e76d5b5872303f0"
+    ],
+    "quantitative_finance.yml": [
+      "6795136f8d90554e6067c420",
+      "6796fcb2f9f986ea7fc8309a",
+      "679703a5f9f986ea7fc86eda",
+      "6795dea23e76d5b5872c3865",
+      "6796f4ad3eff0c142a8c647f",
+      "6796381a8a14699f160d3ca4",
+      "679595b5f9f986ea7fbb70c2",
+      "6795925c52a365d116819b65",
+      "6796d58a3eff0c142a8b790c",
+      "679606baa1a09a48feb46da7"
+    ],
+    "bankers.yml": [
+      "679634e70db3e792567fda8a",
+      "679606baa1a09a48feb46da7",
+      "6796267373bf14921fb56f9f",
+      "679585ea73bf14921faf77fe",
+      "6796be010db3e7925684e578",
+      "6796d58a3eff0c142a8b790c",
+      "6795b5088d90554e606dba2d",
+      "6794d7343e76d5b5872303f0",
+      "6796aae18d90554e6076951c",
+      "6794caa67e0084c5fa6f1276"
+    ],
+    "mechanical_engineers.yml": [
+      "6794b7b17e0084c5fa6e78c1",
+      "6794cb533e76d5b587229595",
+      "679703a5f9f986ea7fc86eda",
+      "6795dea23e76d5b5872c3865",
+      "67969f530db3e79256839691",
+      "6796d58a3eff0c142a8b790c",
+      "679606baa1a09a48feb46da7",
+      "679674b47e0084c5fa7e5a9b",
+      "67957f073e76d5b58728b912",
+      "67970ffa3eff0c142a8d34f1"
+    ]
+  },
+  "timestamp": "2025-08-02T19:11:44.982Z",
+  "total_queries": 10,
+  "total_candidates": 100
+}
